@@ -1,7 +1,7 @@
 # Password-Generator-and-Manager
 A simple password generator and manager made using c++
 
-This mini project was created by @Kamal1023 and @aarthi5704
+This mini project was created by #@Kamal1023 and #@aarthi5704
 
 Problem Statement: 
 As people use a variety of online program and services in their daily lives, remembering multiple
