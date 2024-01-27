@@ -1,6 +1,8 @@
 # Password-Generator-and-Manager
 A simple password generator and manager made using c++
 
+This Project was successfully completed by @aarthi5704 and @Kamal1023
+
 Problem Statement: 
 As people use a variety of online program and services in their daily lives, remembering multiple
 passwords can be difficult. This can result in the same password being used for several accounts,
